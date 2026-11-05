@@ -1,0 +1,4 @@
+numpy
+scipy
+matplotlib
+flopy>=3.12

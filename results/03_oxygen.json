@@ -1,0 +1,366 @@
+{
+  "C0_mg_L": 9.0,
+  "hypoxia_mg_L": 2.0,
+  "D_m2_per_d": 5.076372098216555e-05,
+  "runs": [
+    {
+      "k_per_d": 0.5,
+      "q_m_per_d": -0.4,
+      "hypoxic_depth_mf6_m": 5.842830523574643e-05,
+      "hypoxic_depth_analytical_m": 5.7263606421332824e-05,
+      "max_abs_error_mg_L": 0.0458822877036793
+    },
+    {
+      "k_per_d": 0.5,
+      "q_m_per_d": -0.2,
+      "hypoxic_depth_mf6_m": 0.00011535089741463277,
+      "hypoxic_depth_analytical_m": 0.00011452230805596226,
+      "max_abs_error_mg_L": 0.01456904342880172
+    },
+    {
+      "k_per_d": 0.5,
+      "q_m_per_d": -0.1,
+      "hypoxic_depth_mf6_m": 0.000229795957629292,
+      "hypoxic_depth_analytical_m": 0.00022900539461460885,
+      "max_abs_error_mg_L": 0.005517270901975735
+    },
+    {
+      "k_per_d": 0.5,
+      "q_m_per_d": 0.0,
+      "hypoxic_depth_mf6_m": 0.01516102107561323,
+      "hypoxic_depth_analytical_m": 0.015155208191373424,
+      "max_abs_error_mg_L": 0.00021546370260860925
+    },
+    {
+      "k_per_d": 0.5,
+      "q_m_per_d": 0.1,
+      "hypoxic_depth_mf6_m": 1.0038004406041063,
+      "hypoxic_depth_analytical_m": 1.002947269912004,
+      "max_abs_error_mg_L": 0.001762263345123305
+    },
+    {
+      "k_per_d": 0.5,
+      "q_m_per_d": 0.2,
+      "hypoxic_depth_mf6_m": null,
+      "hypoxic_depth_analytical_m": 2.0055510513442694,
+      "max_abs_error_mg_L": 0.07017301744921145
+    },
+    {
+      "k_per_d": 0.5,
+      "q_m_per_d": 0.4,
+      "hypoxic_depth_mf6_m": null,
+      "hypoxic_depth_analytical_m": 4.010930321683269,
+      "max_abs_error_mg_L": 0.07494021463520895
+    },
+    {
+      "k_per_d": 0.5,
+      "q_m_per_d": 0.6,
+      "hypoxic_depth_mf6_m": null,
+      "hypoxic_depth_analytical_m": 6.016347763164629,
+      "max_abs_error_mg_L": 0.0643989552371913
+    },
+    {
+      "k_per_d": 1.4,
+      "q_m_per_d": -0.4,
+      "hypoxic_depth_mf6_m": 5.8426640369220445e-05,
+      "hypoxic_depth_analytical_m": 5.7262134934909134e-05,
+      "max_abs_error_mg_L": 0.04588201520968127
+    },
+    {
+      "k_per_d": 1.4,
+      "q_m_per_d": -0.2,
+      "hypoxic_depth_mf6_m": 0.00011533833229239312,
+      "hypoxic_depth_analytical_m": 0.00011451053999490841,
+      "max_abs_error_mg_L": 0.014567578799268954
+    },
+    {
+      "k_per_d": 1.4,
+      "q_m_per_d": -0.1,
+      "hypoxic_depth_mf6_m": 0.00022970167706016132,
+      "hypoxic_depth_analytical_m": 0.00022891137249627682,
+      "max_abs_error_mg_L": 0.005513455070162099
+    },
+    {
+      "k_per_d": 1.4,
+      "q_m_per_d": 0.0,
+      "hypoxic_depth_mf6_m": 0.009060669390524415,
+      "hypoxic_depth_analytical_m": 0.009056969205374236,
+      "max_abs_error_mg_L": 0.00021003080338211078
+    },
+    {
+      "k_per_d": 1.4,
+      "q_m_per_d": 0.1,
+      "hypoxic_depth_mf6_m": 0.35862740699213735,
+      "hypoxic_depth_analytical_m": 0.3583425772716277,
+      "max_abs_error_mg_L": 0.0017640726868926038
+    },
+    {
+      "k_per_d": 1.4,
+      "q_m_per_d": 0.2,
+      "hypoxic_depth_mf6_m": 0.7169735261269055,
+      "hypoxic_depth_analytical_m": 0.7163418423383399,
+      "max_abs_error_mg_L": 0.0017664404836681413
+    },
+    {
+      "k_per_d": 1.4,
+      "q_m_per_d": 0.4,
+      "hypoxic_depth_mf6_m": 1.4336986950109922,
+      "hypoxic_depth_analytical_m": 1.4325119257304262,
+      "max_abs_error_mg_L": 0.001765935943897734
+    },
+    {
+      "k_per_d": 1.4,
+      "q_m_per_d": 0.6,
+      "hypoxic_depth_mf6_m": null,
+      "hypoxic_depth_analytical_m": 2.1487201709930934,
+      "max_abs_error_mg_L": 0.07251697238164745
+    },
+    {
+      "k_per_d": 5.0,
+      "q_m_per_d": -0.4,
+      "hypoxic_depth_mf6_m": 5.841998190985484e-05,
+      "hypoxic_depth_analytical_m": 5.725625050127075e-05,
+      "max_abs_error_mg_L": 0.045880926465858174
+    },
+    {
+      "k_per_d": 5.0,
+      "q_m_per_d": -0.2,
+      "hypoxic_depth_mf6_m": 0.00011528810293098064,
+      "hypoxic_depth_analytical_m": 0.00011446351606511618,
+      "max_abs_error_mg_L": 0.01456173360977564
+    },
+    {
+      "k_per_d": 5.0,
+      "q_m_per_d": -0.1,
+      "hypoxic_depth_mf6_m": 0.00022932552523430636,
+      "hypoxic_depth_analytical_m": 0.00022853682100682426,
+      "max_abs_error_mg_L": 0.005498333584575743
+    },
+    {
+      "k_per_d": 5.0,
+      "q_m_per_d": 0.0,
+      "hypoxic_depth_mf6_m": 0.004794481550926355,
+      "hypoxic_depth_analytical_m": 0.004792497629878101,
+      "max_abs_error_mg_L": 0.00019286240214810846
+    },
+    {
+      "k_per_d": 5.0,
+      "q_m_per_d": 0.1,
+      "hypoxic_depth_mf6_m": 0.10057798058291124,
+      "hypoxic_depth_analytical_m": 0.10050036327275823,
+      "max_abs_error_mg_L": 0.0017713096871414535
+    },
+    {
+      "k_per_d": 5.0,
+      "q_m_per_d": 0.2,
+      "hypoxic_depth_mf6_m": 0.20083244985450094,
+      "hypoxic_depth_analytical_m": 0.20065811641957193,
+      "max_abs_error_mg_L": 0.001777575433861589
+    },
+    {
+      "k_per_d": 5.0,
+      "q_m_per_d": 0.4,
+      "hypoxic_depth_mf6_m": 0.40149360286220825,
+      "hypoxic_depth_analytical_m": 0.40114456205767246,
+      "max_abs_error_mg_L": 0.0017775219950109111
+    },
+    {
+      "k_per_d": 5.0,
+      "q_m_per_d": 0.6,
+      "hypoxic_depth_mf6_m": 0.6020361362921484,
+      "hypoxic_depth_analytical_m": 0.6016691325714133,
+      "max_abs_error_mg_L": 0.001776217775044664
+    }
+  ],
+  "from_loggers": [
+    {
+      "q_true": -0.6,
+      "k0.5": {
+        "true_m": 3.8176040409570535e-05,
+        "from_loggers_m": 3.8580450979931194e-05,
+        "range_conductivity_pm20_m": [
+          3.094769244665745e-05,
+          5.040398915495195e-05
+        ]
+      },
+      "k1.4": {
+        "true_m": 3.817560438731178e-05,
+        "from_loggers_m": 3.8580000953890206e-05,
+        "range_conductivity_pm20_m": [
+          3.0947460159511536e-05,
+          5.0402985645833726e-05
+        ]
+      },
+      "k5.0": {
+        "true_m": 3.817386049744973e-05,
+        "from_loggers_m": 3.857820105967376e-05,
+        "range_conductivity_pm20_m": [
+          3.094653108066203e-05,
+          5.039897240834879e-05
+        ]
+      }
+    },
+    {
+      "q_true": -0.4,
+      "k0.5": {
+        "true_m": 5.7263606421332824e-05,
+        "from_loggers_m": 5.724171682784281e-05,
+        "range_conductivity_pm20_m": [
+          4.4511136777475164e-05,
+          8.017297900400816e-05
+        ]
+      },
+      "k1.4": {
+        "true_m": 5.7262134934909134e-05,
+        "from_loggers_m": 5.724024702817214e-05,
+        "range_conductivity_pm20_m": [
+          4.4510445682847214e-05,
+          8.01689409060318e-05
+        ]
+      },
+      "k5.0": {
+        "true_m": 5.725625050127075e-05,
+        "from_loggers_m": 5.723436933865852e-05,
+        "range_conductivity_pm20_m": [
+          4.45076817334668e-05,
+          8.015279664503472e-05
+        ]
+      }
+    },
+    {
+      "q_true": -0.2,
+      "k0.5": {
+        "true_m": 0.00011452230805596226,
+        "from_loggers_m": 0.00011409186652537741,
+        "range_conductivity_pm20_m": [
+          7.976571456334051e-05,
+          0.0001980738556521581
+        ]
+      },
+      "k1.4": {
+        "true_m": 0.00011451053999490841,
+        "from_loggers_m": 0.00011408023063696588,
+        "range_conductivity_pm20_m": [
+          7.976173768655552e-05,
+          0.00019801300165555555
+        ]
+      },
+      "k5.0": {
+        "true_m": 0.00011446351606511618,
+        "from_loggers_m": 0.00011403373449717239,
+        "range_conductivity_pm20_m": [
+          7.97458381059599e-05,
+          0.0001977703309321677
+        ]
+      }
+    },
+    {
+      "q_true": 0.0,
+      "k0.5": {
+        "true_m": 0.015155208191373424,
+        "from_loggers_m": 0.01931739620037279,
+        "range_conductivity_pm20_m": [
+          0.00040014868796059975,
+          0.5470126489611691
+        ]
+      },
+      "k1.4": {
+        "true_m": 0.009056969205374236,
+        "from_loggers_m": 0.01047992643990214,
+        "range_conductivity_pm20_m": [
+          0.0003996481656310421,
+          0.195631005886959
+        ]
+      },
+      "k5.0": {
+        "true_m": 0.004792497629878101,
+        "from_loggers_m": 0.0051782443701663145,
+        "range_conductivity_pm20_m": [
+          0.0003976707715459477,
+          0.05507629886954952
+        ]
+      }
+    },
+    {
+      "q_true": 0.2,
+      "k0.5": {
+        "true_m": 2.0055510513442694,
+        "from_loggers_m": 1.9936231005238656,
+        "range_conductivity_pm20_m": [
+          1.7053332799789676,
+          2.2344481925220983
+        ]
+      },
+      "k1.4": {
+        "true_m": 0.7163418423383399,
+        "from_loggers_m": 0.7120823001715858,
+        "range_conductivity_pm20_m": [
+          0.6091341631334223,
+          0.7980832827961128
+        ]
+      },
+      "k5.0": {
+        "true_m": 0.20065811641957193,
+        "from_loggers_m": 0.19946593695046821,
+        "range_conductivity_pm20_m": [
+          0.17065444760068785,
+          0.2235372882978317
+        ]
+      }
+    },
+    {
+      "q_true": 0.4,
+      "k0.5": {
+        "true_m": 4.010930321683269,
+        "from_loggers_m": 3.9732211522285046,
+        "range_conductivity_pm20_m": [
+          3.9352647920913846,
+          3.9544968060192733
+        ]
+      },
+      "k1.4": {
+        "true_m": 1.4325119257304262,
+        "from_loggers_m": 1.4190447145500362,
+        "range_conductivity_pm20_m": [
+          1.4054892300323294,
+          1.4123576239850322
+        ]
+      },
+      "k5.0": {
+        "true_m": 0.40114456205767246,
+        "from_loggers_m": 0.39737413403227284,
+        "range_conductivity_pm20_m": [
+          0.3935789996020852,
+          0.3955019456459528
+        ]
+      }
+    },
+    {
+      "q_true": 0.6,
+      "k0.5": {
+        "true_m": 6.016347763164629,
+        "from_loggers_m": 5.951831259994169,
+        "range_conductivity_pm20_m": [
+          5.672525248987537,
+          6.167695200258266
+        ]
+      },
+      "k1.4": {
+        "true_m": 2.1487201709930934,
+        "from_loggers_m": 2.12567882873453,
+        "range_conductivity_pm20_m": [
+          2.025927903383808,
+          2.202772224941462
+        ]
+      },
+      "k5.0": {
+        "true_m": 0.6016691325714133,
+        "from_loggers_m": 0.5952178546194892,
+        "range_conductivity_pm20_m": [
+          0.567288963266502,
+          0.6168030333339474
+        ]
+      }
+    }
+  ]
+}
